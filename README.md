@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+📖 **Automation Articles **
+- 💰 [Cisco Devnet 300-435 ENAUTO Crib Sheet 1](https://www.linkedin.com/pulse/cisco-300-435-enauto-crib-sheet-1-stephen-paynter/)
 
 <a href="https://www.linkedin.com/in/stephen-paynter-91b67b1/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="stephen-paynter" /></a>
 <a href="https://medium.com/@stephenpaynter/"><img align="left" src="https://img.shields.io/badge/Medium-%2312100E.svg?style=plastic&logo=medium&logoColor=white" alt="@stephenpaynter" /></a>
