@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📖 **Network Automation Articles **
+📖  Network Automation Articles
 - ⚡ [Cisco Devnet 300-435 ENAUTO Crib Sheet 1](https://www.linkedin.com/pulse/cisco-300-435-enauto-crib-sheet-1-stephen-paynter/)
 - ⚡ [Cisco Devnet 300-435 ENAUTO Crib Sheet 2](https://www.linkedin.com/pulse/cisco-300-435-enauto-crib-sheet-2-stephen-paynter-1f/) 
 
