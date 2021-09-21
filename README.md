@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://linkedin.com/in/stephen-paynter"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="nleiva" /></a>
+<a href="https://linkedin.com/in/stephen-paynter"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="stephen-paynter" /></a>
 <a href="https://https://medium.com/@stephenpaynter/"><img align="left" src="https://img.shields.io/badge/Medium-%2312100E.svg?style=plastic&logo=medium&logoColor=white" alt="@nleiva" /></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=nleiva&label=Views&style=plastic&color=orange">
