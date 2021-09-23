@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/stephen-paynter-91b67b1/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="stephen-paynter" /></a>
 <a href="https://medium.com/@stephenpaynter/"><img align="left" src="https://img.shields.io/badge/Medium-%2312100E.svg?style=plastic&logo=medium&logoColor=white" alt="@stephenpaynter" /></a>
 <img align="right" src="https://komarev.com/ghpvc/?username=stephenpaynter&label=Views&style=plastic&color=orange">
+
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/stephenpaynter/Dynamic-Testbed)
