@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📖  Network Automation Articles
-- ⚡ [Install Ansible AWX with Kubernetes on Ubuntu 20.4](https://www.linkedin.com/pulse/installing-ansible-awx-ubuntu-204-kubernetes-ks3-stephen-paynter/)
+- [Install Ansible AWX with Kubernetes on Ubuntu 20.4](https://www.linkedin.com/pulse/installing-ansible-awx-ubuntu-204-kubernetes-ks3-stephen-paynter/)
 - ⚡ [Netbox Webhooks with Ansible Tower](https://www.linkedin.com/pulse/netbox-webhooks-ansible-tower-stephen-paynter/)
 - ⚡ [Cisco Devnet 300-435 ENAUTO Crib Sheet 1](https://www.linkedin.com/pulse/cisco-300-435-enauto-crib-sheet-1-stephen-paynter/)
 - ⚡ [Cisco Devnet 300-435 ENAUTO Crib Sheet 2](https://www.linkedin.com/pulse/cisco-300-435-enauto-crib-sheet-2-stephen-paynter-1f/) 
