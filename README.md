@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 📖  Network Automation Articles
 - [Install Ansible AWX with Kubernetes on Ubuntu 20.4](https://www.linkedin.com/pulse/installing-ansible-awx-ubuntu-204-kubernetes-ks3-stephen-paynter/)
-- ⚡ [Netbox Webhooks with Ansible Tower](https://www.linkedin.com/pulse/netbox-webhooks-ansible-tower-stephen-paynter/)
-- ⚡ [Cisco Devnet 300-435 ENAUTO Crib Sheet 1](https://www.linkedin.com/pulse/cisco-300-435-enauto-crib-sheet-1-stephen-paynter/)
-- ⚡ [Cisco Devnet 300-435 ENAUTO Crib Sheet 2](https://www.linkedin.com/pulse/cisco-300-435-enauto-crib-sheet-2-stephen-paynter-1f/) 
-- ⚡ [Cisco Devnet 300-435 ENAUTO Crib Sheet 3](https://www.linkedin.com/pulse/cisco-300-435-enauto-crib-sheet-3-stephen-paynter/) 
-- ⚡ [Cisco Devnet 300-435 ENAUTO Crib Sheet 4](https://www.linkedin.com/pulse/cisco-300-435-enauto-crib-sheet-4-stephen-paynter/) 
-- ⚡ ... [Full list](https://www.linkedin.com/in/stephen-paynter-91b67b1/detail/recent-activity/posts/)
+- [Netbox Webhooks with Ansible Tower](https://www.linkedin.com/pulse/netbox-webhooks-ansible-tower-stephen-paynter/)
+- [Cisco Devnet 300-435 ENAUTO Crib Sheet 1](https://www.linkedin.com/pulse/cisco-300-435-enauto-crib-sheet-1-stephen-paynter/)
+- [Cisco Devnet 300-435 ENAUTO Crib Sheet 2](https://www.linkedin.com/pulse/cisco-300-435-enauto-crib-sheet-2-stephen-paynter-1f/) 
+- [Cisco Devnet 300-435 ENAUTO Crib Sheet 3](https://www.linkedin.com/pulse/cisco-300-435-enauto-crib-sheet-3-stephen-paynter/) 
+- [Cisco Devnet 300-435 ENAUTO Crib Sheet 4](https://www.linkedin.com/pulse/cisco-300-435-enauto-crib-sheet-4-stephen-paynter/) 
+- ... [Full list](https://www.linkedin.com/in/stephen-paynter-91b67b1/detail/recent-activity/posts/)
 
 <a href="https://twitter.com/stephenpaynter"><img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/stephenpaynter?style=social">
 <a href="https://www.linkedin.com/in/stephen-paynter-91b67b1/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="stephen-paynter" /></a>
