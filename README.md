@@ -31,6 +31,5 @@ Here are some ideas to get you started:
 
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/stephenpaynter/Dynamic-Testbed)
 
-!(https://github-readme-stats.vercel.app/api?username=stephenpaynter&show_icons=true)
- 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenpaynter&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+
