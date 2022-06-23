@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 <img align="right" src="https://komarev.com/ghpvc/?username=stephenpaynter&label=Views&style=plastic&color=orange">
 
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/stephenpaynter/Dynamic-Testbed)
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=stephenpaynter&show_icons=true)
+ 
