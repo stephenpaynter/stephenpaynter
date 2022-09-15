@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - ... [Full list](https://www.linkedin.com/in/stephen-paynter-91b67b1/detail/recent-activity/posts/)
 - [YOUTUBE - Ansible Automation For Network Engineers](https://www.youtube.com/playlist?list=PLp19NUZLnl5NzGcUQZgTmu6Xbg1cgwf_B)
 - [YOUTUBE - Ansible Bitesize](https://www.youtube.com/playlist?list=PLp19NUZLnl5PpQBIJ31GSBwi9utijELXn)
+- [YOUTUBE - Python](https://www.youtube.com/playlist?list=PLp19NUZLnl5MpR7RoE5G0YymRPXuPzRZ7)
 
 <a href="https://twitter.com/stephenpaynter"><img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/stephenpaynter?style=social">
 <a href="https://www.linkedin.com/in/stephen-paynter-91b67b1/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="stephen-paynter" /></a>
